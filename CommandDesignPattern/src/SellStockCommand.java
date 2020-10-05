@@ -3,7 +3,7 @@
  * @author 
  *
  */
-public class SellStockCommand {
+public class SellStockCommand implements Command {
 	private StockTrade stockTrade;
 	private String stockName;
 	private int shares;

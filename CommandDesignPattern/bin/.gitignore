@@ -1,3 +1,5 @@
 /StockTrade.class
 /SellStockCommand.class
 /BuyStockCommand.class
+/Agent.class
+/Command.class
