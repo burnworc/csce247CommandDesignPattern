@@ -16,7 +16,7 @@ public class StockTrade {
 	}
 	
 	/**
-	 * Calling the sell method dsiplays the number of shares being sold and the name of the stocks
+	 * Calling the sell method displays the number of shares being sold and the name of the stocks
 	 * @param stockName - Takes in the name of the stocks being sold
 	 * @param numShares - Takes in the number of shares being sold
 	 */
