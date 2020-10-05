@@ -1,6 +1,6 @@
 /**
  * 
- * @author 
+ * @author Jerald Capilo
  *
  */
 public class BuyStockCommand implements Command {
