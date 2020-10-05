@@ -8,6 +8,7 @@ public class Agent {
 	private ArrayList<Command> orders = new ArrayList<>();
 	
 	public Agent() {
+		system.out.print("");
 		
 	}
 	
