@@ -1,4 +1,8 @@
-
+/**
+ * 
+ * @author Cole
+ *
+ */
 public class StockTrade {
 	public StockTrade() {}
 	
