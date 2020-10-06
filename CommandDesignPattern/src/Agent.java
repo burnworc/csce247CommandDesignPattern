@@ -1,6 +1,6 @@
 /**
  * 
- * @author Cole
+ * @author Cole Burnworth
  *
  */
 import java.util.*;
