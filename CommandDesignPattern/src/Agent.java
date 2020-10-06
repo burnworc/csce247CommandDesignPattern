@@ -17,7 +17,7 @@ public class Agent {
 	
 	public void processOrders() {
 		for (Command order : orders) {
-			
+			order.execute();
 		}
 	}
 }
