@@ -1,6 +1,6 @@
 /**
  * 
- * @author Cole Burnworth, Jerad Capilo, Jonathan Brown
+ * @author Cole Burnworth
  *
  */
 public class StockTrade {
