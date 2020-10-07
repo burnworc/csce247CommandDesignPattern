@@ -1,5 +1,9 @@
 /**
+<<<<<<< HEAD
  * Holds the methods for displaying messages based on user choice
+=======
+ * 
+>>>>>>> d7dc55800405dbb3b9c8ee808cc0df6351dea7f8
  * @author Cole Burnworth
  *
  */
