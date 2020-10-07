@@ -1,5 +1,5 @@
 /**
- * Holds the arraylist of Commands called orders and all the methods for the arraylist looping.
+ * Holds the arraylist of Commands called orders and all the methods for the arraylist loops.
  * @author Cole Burnworth
  *
  */
