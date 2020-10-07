@@ -1,6 +1,6 @@
 /**
- * 
- * @author Cole Burnworth, Jerad Capilo, Jonathan Brown
+ * Holds the methods for displaying messages based on user choice
+ * @author Cole Burnworth
  *
  */
 public class StockTrade {
