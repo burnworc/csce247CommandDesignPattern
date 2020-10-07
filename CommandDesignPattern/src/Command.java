@@ -1,5 +1,5 @@
 /**
- * Contains the execute method.
+ * Contains the execute method for user commands.
  * @author Cole Burnworth
  *
  */
