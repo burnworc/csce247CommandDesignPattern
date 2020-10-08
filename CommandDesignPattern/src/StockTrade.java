@@ -12,7 +12,7 @@ public class StockTrade {
 	 * @param numShares - takes in the number of shares being purchased.
 	 */
 	public void buy(String stockName, int numShares) {
-		System.out.println("Buying " + numShares + " of" + stockName);
+		System.out.println("Buying " + numShares + "of " + stockName);
 	}
 	
 	/**
@@ -21,6 +21,6 @@ public class StockTrade {
 	 * @param numShares - Takes in the number of shares being sold
 	 */
 	public void sell(String stockName, int numShares) {
-		System.out.println("Selling " + numShares + " of" + stockName);
+		System.out.println("Selling " + numShares + "of " + stockName);
 	}
 }
