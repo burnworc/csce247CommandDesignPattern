@@ -22,7 +22,7 @@ public class SellStockCommand implements Command {
 		
 	}
 	/**
-	 * executes the selling of stock
+	 * executes the selling of stock by calling sell from stockTrade class and setting parameters
 	 */
 	
 	public void execute() {

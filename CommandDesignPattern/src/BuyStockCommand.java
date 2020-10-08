@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-/**
- * 
- * @author Jerald Capilo
- *
- */
-public class BuyStockCommand implements Command {
-	private StockTrade stockTrade;
-	private String stockName;
-	private int shares;
-	
-	
-	public BuyStockCommand(StockTrade stockTrade, String stockName, int shares) {
-		
-	}
-	
-	public void execute() {
-		
-	}
-}
-=======
 /**
  * 
  * @author Jerald Capilo
@@ -48,4 +27,4 @@ public class BuyStockCommand implements Command {
 		stockTrade.buy(stockName, shares);
 	}
 }
->>>>>>> 1c3620dedab5892e684ec54c5662ec8e0dde0b85
+
