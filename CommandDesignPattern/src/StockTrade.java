@@ -1,6 +1,6 @@
 /**
- * 
- * @author Cole Burnworth, Jerad Capilo, Jonathan Brown
+ * Holds the methods for displaying messages based on user choice
+ * @author Cole Burnworth
  *
  */
 public class StockTrade {
@@ -9,7 +9,7 @@ public class StockTrade {
 	/**
 	 * Calling the buy method displays the number of stocks being purchased and what the name of the stocks are
 	 * @param stockName - takes in the name of the stock being purchased
-	 * @param numShares - takes in the number of shares being purchased
+	 * @param numShares - takes in the number of shares being purchased.
 	 */
 	public void buy(String stockName, int numShares) {
 		System.out.println("Buying " + numShares + " of" + stockName);

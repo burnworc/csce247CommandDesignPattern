@@ -1,6 +1,6 @@
 /**
  * 
- * @author 
+ * @author Cole Burnworth
  *
  */
 public class SellStockCommand implements Command {
